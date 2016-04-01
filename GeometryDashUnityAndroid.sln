@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{68A3D6C0-82C3-F2C6-55BE-846B1DBB8F60}") = "GeometryDashUnityAndroid", "Assembly-CSharp.csproj", "{7E7A8B7F-24BC-2CFA-DF80-1F3780C31F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7A8B7F-24BC-2CFA-DF80-1F3780C31F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7A8B7F-24BC-2CFA-DF80-1F3780C31F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7A8B7F-24BC-2CFA-DF80-1F3780C31F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7A8B7F-24BC-2CFA-DF80-1F3780C31F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
